@@ -1,0 +1,40 @@
+amsat = list; AMSAT-BB mail = amsat-bb@amsat.org
+ann = list; Announce mail = announce@147120.com
+arm = list; OpenBSD ARM mail = arm@openbsd.org
+cube = list; EarthStation Mail = earthstation@cubesat.org
+dds = list; DDS-VFO Mail = dds-vfo@yahoogroups.com
+develop = list; Linux DSP-10 mail = linux-dsp-10-develop@lists.sourceforge.net
+dvs = list; DVS Announce mail = dvs-announce@lists.algoram.com
+echo = list; EchoLink conference = echolink@yahoogroups.com
+fadca = list; FADCA packet radio mail = fadca@mailman.qth.net
+fcdev = list; FunCube Dongle Development Mail = FCDevelopment@yahoogroups.co.uk
+fl-amsat = list; FL AMSAT mail = amsat-florida@amsat.org
+fun = list; FUNcube Mail = funcube@yahoogroups.co.uk
+hackers = list; FreeBSD-Hackers mail = freebsd-hackers@freebsd.org
+ham = list; QTH Ham-Linux mail = ham-linux@qth.net
+ham-pic = list; Ham-PIC mail = ham-pic@qth.net
+homebrew = list; Homebrew QTH mail = homebrew@qth.net
+hsmm = List; Florida HSMM Mesh Mailing, FreeLists = fl-hsmm-mesh@freelists.org
+jem = Watercraft; JEM = info@jemwatercraft.com
+lab = list; Electronics Lab mail, fedora = electronic-lab@lists.fedoraproject.org
+lhs = list; Linux in Hamshack podcast mail = lhspodcast@lists.blacksparrowmedia.net
+linus = Torvalds; Linus = torvalds@linux.cs.Helsinki.fi
+lugs = list; LinuxUserGroups mailing = lugs@linuxusersgroups.org
+m2inc = Sales; M2 antennas = sales@m2inc.com
+makers = Mailing list; Orlando Makers, OR&MC = orlandomakers@freelists.org
+minima = List; Minima Mailing, FreeLists = minima@freelists.org
+news = list; NEWS VHF mail = newsvhf@mailman.qth.net
+obsd = list; The Orlando BSD mail, mailman = orlandobsd@orlandobsd.us
+osmo = list; OSMOCOM mail = osmocom-sdr@lists.osmocom.org
+pcr = list; The PCR-1000 mail = pcr-1000@mailman.qth.net
+pcrc = List; PC Repeater Controller Mail = pcrepeatercontroller@yahoogroups.com
+pic = list; MIT PICmicro mail  = piclist@mit.edu
+qrp = Tech; QRP = qrptech@groups.io
+sales = sales; Amateur Radio Supplies = sales@amateurradiosupplies.com
+seeed = Support; Seeed = techsupport@seeedstudio.com
+sqlite = list; SQLite User's mail = sqlite-users@mailinglists.sqlite.org
+talk = list; NYC*BUG Talk mail = talk@lists.nycbug.org
+tec = list; Orlando Technology Entrepreneurs mail = tecentrepreneur@freelists.org
+tri = list; Triagle LUG General Discussion mail = trilug@trilug.org
+vhf = list; Southeastern VHF mail = svhfs@contesting.com
+wsjt = List; The WSJTgroup = wsjtgroup@yahoogroups.com
